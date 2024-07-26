@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(14, 66, 124);
+    font-family: "Gill Sans Extrabold", sans-serif;
+    color: rgb(255, 15, 21);
+    
+}
+
+.container{
+    border: 2px solid rgb(3, 13, 13);
+    text-align: center;
+    width: 52rem;
+    margin: 3rem auto;
+    border-radius: 2rem;
+
+}
+
+a{
+    color: rgb(255, 15, 21);
+}
+a:hover{
+    color: rgb(255, 254, 252);
+}
